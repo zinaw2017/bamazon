@@ -1,7 +1,7 @@
 # bamazon
 Bamazon App Using MySQL database and Node.js.
 
-Three levels -
+This APP has Three levels of EXECUTION.
 
 Customer View
 Manager View
